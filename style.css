@@ -1,0 +1,162 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a {
+    font-family: 'Work Sans', sans-serif !important;
+}
+
+img {
+    max-width: 100% !important;
+}
+
+.bgc {
+    background-color: #faf9fc;
+}
+
+
+/* >>>Menu Section<<<<<< */
+
+.logo_div {
+    width: 105px;
+}
+
+a.nav-link {
+    padding: 30px 15px !important;
+}
+
+/* >>>>>>>>slider section>>>>>>>>> */
+
+.slider_text {
+    margin-top: 160px !important;
+}
+
+.sliderbtn {
+    background-color: #9490ff;
+    color: #fff;
+    padding: 7px 11px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.sliderbtn:hover{
+    color: #fff;
+}
+
+/* >>>>>>>>>>>about_section<<<<<<<<<< */
+
+.about_text {
+    margin-top: 50px !important;
+    width: 52%;
+    margin-left: 50px;
+}
+
+.about_section img {
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64, 87, 191, 0.1);
+}
+
+
+/* >>>>>>>>>>>>>counter_section<<<<<<<<<<<<<<<<<< */
+
+.counter_section {
+    background: #9490ff;
+    color: #fff;
+    padding: 100px 0px;
+}
+
+.counter_text h2 {
+    font-size: 34px;
+    font-weight: 600;
+}
+
+
+/* >>>>>>>>>>>>>>>>our_app_text<<<<<<<<<<<<<<<<<< */
+
+.our_app_text {
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64, 87, 191, 0.2);
+    padding: 45px;
+    margin-top: 25px;
+}
+.our_app_text_h2 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    z-index: 3;
+    margin: auto;
+    background: #f7f9ff;
+    padding: 22px 4px 22px 0px;
+    margin-bottom: 15px;
+}
+h5.mb-5.text-muted {
+    font-size: 17px;
+    margin-top: 40px;
+}
+
+.buy_now_btn a {
+    padding: 10px 20px !important;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+
+/* testimonial section  */
+
+.testimonial_item img {
+    margin: auto;
+    position: relative;
+    top: 30px;
+    z-index: 3;
+    left: 15px;
+    width: 100%;
+}
+
+.card_img {
+    width: 100px;
+    height: 100px;
+}
+
+h4.card-title {
+    padding-top: 8px;
+}
+
+.card-subtitle {
+    padding: 0px 0px 17px 0px;
+}
+
+.card {
+    border: none;
+    text-align: center;
+    /* padding: 10px; */
+}
+
+.card-text {
+    font-weight: 500;
+}
+
+
+/* .card-body {
+    padding: 0px 17px !important;
+} */
+
+
+/* >>>>>>>>>>>>>>>>>>>>contact_form<<<<<<<<<<<<<<<<<< */
+
+input.btn.btn-info {
+    padding: 9px 17px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.get_in_touch {
+    margin-top: 72px;
+    margin-left: 40px;
+    width: 33%;
+    /* line-height: 40px !important; */
+}
